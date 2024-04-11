@@ -1,0 +1,10 @@
+test:
+  enabled: false
+lokiCanary:
+  enabled: false
+chunksCache:
+  enabled: false
+loki:
+  auth_enabled: false
+resultsCache:
+  enabled: false
